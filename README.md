@@ -8,7 +8,7 @@ ShivaniTiwar/ShivaniTiwar
 
 
 
-[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://grv7078.herokuapp.com/)
+[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://shivanitiwari.herokuapp.com/)
 
 <h1 align="center">Hi 👋, I'm Shivani Tiwari</h1>
 <h3 align="center">A passionate frontend developer</h3>
