@@ -40,6 +40,19 @@ ShivaniTiwar/ShivaniTiwar
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaniTiwar&" alt="ShivaniTiwar" /></p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangi013&count_private=true&theme=radical" />
+</a>
+</div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhangi013&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+   </div>
+
+<div align="center">
+
+
 
 
 
