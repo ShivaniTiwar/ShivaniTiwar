@@ -1,4 +1,4 @@
-ShivaniTiwar/ShivaniTiwar
+ShivaniTiwari/ShivaniTiwari
 
 - 👋 Hi,I'm Shivani Tiwari 
 -  😊I'm interested in Data Science.
